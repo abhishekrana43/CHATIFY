@@ -1,6 +1,6 @@
 import { create } from "zustand";
 import { axiosInstance } from "../lib/axios";
-import SignUp from "../pages/SignUp";
+import SignUp from "../pages/SignUpPage";
 import toast from "react-hot-toast";
 
 
